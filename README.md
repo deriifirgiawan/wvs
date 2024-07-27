@@ -60,18 +60,3 @@ Estimated Vulnerability Score: 60%
 
 - Author: deriifirgiawan
 - Email: derifirgiawan025@gmail.com
-
-### Explanation
-
-- **Description:** Provides an overview of the tool and its purpose.
-- **Features:** Lists the main features of the tool.
-- **Installation:** Provides instructions for cloning the repository, setting up a virtual environment, and installing dependencies.
-- **Usage:** Instructions on how to run the tool and what arguments are required.
-- **Output:** Explains the results provided by the tool.
-- **Example Output:** Shows an example of the output you might see after running the tool.
-- **SQL Injection Testing:** Details how the tool tests for SQL Injection vulnerabilities and provides example payloads.
-- **Warning:** Emphasizes the ethical and legal considerations for using the tool.
-- **License:** Information about the project's license.
-- **Contact:** Contact details and links to the author's GitHub profile.
-
-This `README.md` file will guide users through understanding, installing, and using your Web Vulnerability Scanner effectively.
